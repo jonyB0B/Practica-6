@@ -1,6 +1,6 @@
 Ejercicio 5
 
-2.No se podría expresar el diagrama ER, ya que no se pueden unir dos relaciones entre sí(Testean y Conocen), que seria este caso en el que solo lo pudiera probar un técnico experto en el avion 
+2. -No se podría expresar el diagrama ER, ya que no se pueden unir dos relaciones entre sí(Testean y Conocen), que seria este caso en el que solo lo pudiera probar un técnico experto en el avion 
 
 Ejercicio 6
 
