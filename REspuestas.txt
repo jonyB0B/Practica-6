@@ -1,0 +1,11 @@
+Ejercicio 5
+
+2.No se podría expresar el diagrama ER, ya que no se pueden unir dos relaciones entre sí(Testean y Conocen), que seria este caso en el que solo lo pudiera probar un técnico experto en el avion 
+
+Ejercicio 6
+
+2.- Habría que eliminar el atributo precio de la relacion Vende que hay entre Farmacia y Medicamento, y añadir el atributo precio a la entidad Medicamento asi todos tendrian el mismo precio independientemente de la Farmacia
+
+3.- La relacion Receta estaría unida a una nueva entidad Recetas y dentro de esta se encontrarian todos los atributos
+
+
